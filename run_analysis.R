@@ -47,7 +47,7 @@ avgset<-summarise_each(avgrp, funs(mean))
 
 # attach appropriate variable names (task #4 of assignment)
 colnames(avgset)[-c(1:2)]<-paste("Avg", colnames(avgset)[-c(1:2)], sep="-")
-write.table(avgset, "./averages2.txt", sep = "\t", row.name = FALSE)
+write.table(avgset, "./averages.txt", sep = "\t", row.name = FALSE)
 
 
 
