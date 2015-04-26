@@ -21,7 +21,7 @@ feat<-append(feat, c ("act", "sub"), 0)
 colnames(combasd)<-feat
 
 # extracting mean and standard deviation measurements (task #2 of assignment)
-# interpteted instructions as pertaining to series means ("mean()") (33 variables)
+# interpreted instructions as pertaining to series means ("mean()") (33 variables)
 # rather than simply having the word "mean" in label (56 variables). Variables
 # such as "angle(tBodyAccMean,gravity)" appear to be angles rather than means.
 logm<-grepl("-mean()", feat, fixed = TRUE)
