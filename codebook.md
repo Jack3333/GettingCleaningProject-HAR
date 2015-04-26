@@ -20,19 +20,19 @@
    
 **This code book pertains to the third data frame, *avgset*.**
 
- '''
  
-| column number  |  variable name  |  values                     |
-| :-------------:| :---------------|  :--------------------------| 
-|       1        |  act            | walking                     |
+ 
+| column number  |  variable name          |  values                     |
+| :-------------:| :-----------------------|  :--------------------------| 
+|       1        |  **act**                | walking                     |
 |		         |                 | walking upstairs            |
 |                |                 | walking downstairs          | 
 |                |                 | sitting                     |                 
-                                   | standing                    |
+|                |                 | standing                    |
 |                |                 | lying                       |
-|      2         |  subject        | integers 1:30               ||                |                 |                             |
+|                |                 |                             ||       2        |  **sub**        | integers 1:30               |
 |                |                 |                             |
-|                |                 |                             |
+|       3        |**Avg-tBodyAcc-mean()-X**|                             |
 |                |                 |                             ||                |                 |                             |
 |                |                 |                             |
 |                |                 |                             |
@@ -52,10 +52,4 @@
 |                |
 |                |
  
- WALKING_DOWNSTAIRS
- SITTING
- STANDING
- LAYING
-			
-
-		
+ 
