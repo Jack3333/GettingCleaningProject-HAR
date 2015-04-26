@@ -13,7 +13,7 @@ A description of the experiment:
 `run_analysis.R` converted the following text files into R objects using RStudio Version 0.98.1091 with R Version 3.1.2:  
 (my modification of list appearing in ref. `(2)` below)
 
-   - 'features.txt': List of all features.
+    - 'features.txt': List of all features.
 
     - 'activity_labels.txt': Links the class labels with their activity name.
 
