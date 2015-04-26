@@ -16,11 +16,11 @@ The study design and data is described at:
 
 
 
-'1.' http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+`1.` http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-'2.' http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
+`2.` http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
 
-'3.' https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf
+`3.` https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf
 
 
 
